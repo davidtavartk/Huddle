@@ -819,6 +819,10 @@ video {
   width: 40%;
 }
 
+.w-\[\%\]{
+  width: %;
+}
+
 .grow{
   flex-grow: 1;
 }
